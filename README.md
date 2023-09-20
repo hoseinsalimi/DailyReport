@@ -1,20 +1,19 @@
 # hosein's report
-date:1402/06/28
+date:1402/06/29
 
 
 # overview & Abstract
-complited learning HTML video(1-10)
+learning CSS video(1-5)
 
 # task details
-input & lable tag
-semantic web element part 1&2
+video(1-5)border/padding/margin
 
 # challenges
 its easy for now
 
 # next steps
-learning CSS (1-5)
+learning CSS (6-10)
 
 
 # conclusion
-being on time & eat tea useful for learning
+being on time & eat tea & food useful for learning but cold environment reduces learning
