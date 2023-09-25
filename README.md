@@ -1,19 +1,19 @@
 # hosein's report
-date:1402/06/29
+date:1402/07/03
 
 
 # overview & Abstract
-learning CSS video(1-5)
+learning content production
 
 # task details
-video(1-5)border/padding/margin
+story telling / content strategy / content marketing
 
 # challenges
 its easy for now
 
 # next steps
-learning CSS (6-10)
+learning CSS (6-10) / (10-15)
 
 
 # conclusion
-being on time & eat tea & food useful for learning but cold environment reduces learning
+being on time & eat tea & food useful for learning but cold environment reduces learning walking before coming to the company make you tired microbe are everywhere and you feel sick
