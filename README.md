@@ -1,19 +1,18 @@
 # hosein's report
-date:1402/07/03
-
+date:1402/07/04
 
 # overview & Abstract
-learning content production
+learning css & project
 
 # task details
-story telling / content strategy / content marketing
+hover / box-shadow / text-shadow / border / margin / display 
 
 # challenges
 its easy for now
 
 # next steps
-learning CSS (6-10) / (10-15)
+I will work on more projects
 
 
 # conclusion
-being on time & eat tea & food useful for learning but cold environment reduces learning walking before coming to the company make you tired microbe are everywhere and you feel sick
+/being on time/eat tea or coffie & food useful for learning/ cold environment reduces learning/ walking before coming to the company make you tired/ microbe are everywhere and you feel sick/using phone & social media while learning disturb your concentration/
