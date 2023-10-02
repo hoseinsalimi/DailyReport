@@ -1,14 +1,11 @@
 # hosein's report
-date:1402/07/08
+date:1402/07/10
 
 # overview & Abstract
-learning css & project
-content production & content marketing
+ content marketing & convincing seminar
 
 # task details
-bg-image / bg-repeat / bg-size / bg-attachment / bg-position
-effective storytelling / the concept of persona / GPS content production 
-
+textual content / image content / video content / audio content / 7 goala for content creation
 # challenges
 internet
 
