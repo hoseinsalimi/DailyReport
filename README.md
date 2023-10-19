@@ -1,23 +1,12 @@
 # hosein's report
-date:1402/07/26
+date:1402/07/27
 
 # overview & Abstract
- progects courses
- project (1)
- 
+front meeting
+personal training courses (persuasion)
+ learned Git
 # task details
-<br/>
-<div class="heder">
-<ul>
-<li></li>
-<li></li>
-<li></li>
- <li></li>
-</ul>
-<h1></h1>
-<p></p>
-</div>
-<br/>
+-->git status-->git add .-->git status-->git commit -m ""-->git push
 # challenges
 no challenge
 # next steps
@@ -34,3 +23,4 @@ project(2)
 8-if the company internet does not working use personal interner so that your time is not wasted.
 9-clean your personal desk.
 10-personally i didnt learn well in project whith vahid salehi so i went to toutube and looked at the project of milad bahrami.
+11-make a plan
