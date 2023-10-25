@@ -1,16 +1,26 @@
 # hosein's report
-date:1402/07/27
+date:1402/08/03
 
 # overview & Abstract
-front meeting
-personal training courses (persuasion)
- learned Git
+html & css project part3
+
 # task details
--->git status-->git add .-->git status-->git commit -m ""-->git push
+<div class="members">
+ <h2></h2>
+ <ul>
+<li>
+<img>
+<h3></h3>
+<p></p>
+</li>
+<li></li>
+<li></li>  
+ </ul>
+</div>
 # challenges
 no challenge
 # next steps
-project(2)
+project(3)
 
 # conclusion
 1-being on time.
