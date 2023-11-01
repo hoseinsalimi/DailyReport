@@ -1,22 +1,36 @@
 # hosein's report
-date:1402/08/03
+date:1402/08/06-10
 
 # overview & Abstract
-html & css project part3
-
+MEDIA QUERY COURSES
+PART1
+/
+PART2
+/
+PART3
+/
+PART4
+/
+PART5
+/
+PART6
+/
+PART7
+/
+PART8 
+/
 # task details
-<div class="members">
- <h2></h2>
- <ul>
-<li>
-<img>
-<h3></h3>
-<p></p>
-</li>
-<li></li>
-<li></li>  
- </ul>
-</div>
+ *PART1*: INTRODUCTION FROM (SINTAX) & (MEDIA QUERY SAMPLE) & (MEDIA QUERY TYPE AND SAMPLE)
+ /
+ *PART2*: IMPLEMENTATION (SINTAX) & (MEDIA QUERY SAMPLE) & (MEDIA QUERY TYPE AND SAMPLE)
+ /
+ *PART3*: INTRODUCTION FROM (GRID SYSTEM)
+ /
+ *PART4*: IMPLEMENTATION (GRID SYSTEM partI)
+ /
+ *part5*: IMPLEMENTATION (GRID SYSTEM partII) & (row)
+ /
+ *part6*: 
 # challenges
 no challenge
 # next steps
