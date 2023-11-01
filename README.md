@@ -39,7 +39,7 @@ PART8
 # challenges
 no challenge
 # next steps
-project(3)
+part6/part7/part8
 
 # conclusion
 1-being on time.
