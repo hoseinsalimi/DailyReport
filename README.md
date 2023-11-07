@@ -1,48 +1,17 @@
 # hosein's report
-date:1402/08/06-10
+date:1402/08/06-15
 
 # overview & Abstract
-MEDIA QUERY COURSES
-PART1
-/
-PART2
-/
-PART3
-/
-PART4
-/
-PART5
-/
-PART6
-/
-PART7
-/
-PART8 
-/
+sima moghadam project
 # task details
- *PART1*: INTRODUCTION FROM (SYNTAX) & (MEDIA QUERY SAMPLE) & (MEDIA QUERY TYPE AND SAMPLE)
-
-
- *PART2*: IMPLEMENTATION (SYNTAX) & (MEDIA QUERY SAMPLE) & (MEDIA QUERY TYPE AND SAMPLE)
- 
-
- *PART3*: INTRODUCTION FROM (GRID SYSTEM)
- 
-
- *PART4*: IMPLEMENTATION (GRID SYSTEM partI)
- 
-
- *part5*: IMPLEMENTATION (GRID SYSTEM partII) & (row)
- 
- 
- *part6*: 
+completion header
+coding content
 # challenges
-no challenge
-# next steps
-part6/part7/part8
-
+border
+# next step
+coding content & footer
 # conclusion
-1-being on time.
+1-being on time
 
 2-eat tea or coffie & food useful for learning .
 
